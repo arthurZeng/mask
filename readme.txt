@@ -1,6 +1,2 @@
-#Git is a version control system.
-#Git is free software.
-Git is a distributed version control system.
-Git is free software.
-
-Creating a new branch is quick. -- from branch dev
+这是一次文件修改
+利用git提交
